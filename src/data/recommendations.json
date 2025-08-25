@@ -1,0 +1,74 @@
+[
+  {
+    "id": 201,
+    "area": "Lab Block A",
+    "areaId": 1,
+    "suggestion": "Switch off HVAC during off-hours (6 PM - 8 AM)",
+    "category": "HVAC",
+    "priority": "High",
+    "estimatedSavings": "15-20%",
+    "implementationCost": "Low",
+    "status": "Pending",
+    "timestamp": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": 202,
+    "area": "Hostel Block B",
+    "areaId": 2,
+    "suggestion": "Install low-flow taps and showerheads",
+    "category": "Water",
+    "priority": "Medium",
+    "estimatedSavings": "25-30%",
+    "implementationCost": "Medium",
+    "status": "In Progress",
+    "timestamp": "2024-01-14T14:00:00Z"
+  },
+  {
+    "id": 203,
+    "area": "Cafeteria Block E",
+    "areaId": 5,
+    "suggestion": "Replace traditional lighting with LED fixtures",
+    "category": "Electricity",
+    "priority": "High",
+    "estimatedSavings": "40-50%",
+    "implementationCost": "Medium",
+    "status": "Approved",
+    "timestamp": "2024-01-13T10:00:00Z"
+  },
+  {
+    "id": 204,
+    "area": "Gym Block F",
+    "areaId": 6,
+    "suggestion": "Implement motion sensors for lighting control",
+    "category": "Electricity",
+    "priority": "Medium",
+    "estimatedSavings": "20-25%",
+    "implementationCost": "Low",
+    "status": "Pending",
+    "timestamp": "2024-01-12T16:00:00Z"
+  },
+  {
+    "id": 205,
+    "area": "Classroom Block C",
+    "areaId": 3,
+    "suggestion": "Optimize HVAC scheduling based on class timings",
+    "category": "HVAC",
+    "priority": "Low",
+    "estimatedSavings": "10-15%",
+    "implementationCost": "Low",
+    "status": "Pending",
+    "timestamp": "2024-01-11T12:00:00Z"
+  },
+  {
+    "id": 206,
+    "area": "Library Block D",
+    "areaId": 4,
+    "suggestion": "Install smart thermostats for zone-based control",
+    "category": "HVAC",
+    "priority": "Medium",
+    "estimatedSavings": "15-20%",
+    "implementationCost": "Medium",
+    "status": "Pending",
+    "timestamp": "2024-01-10T09:00:00Z"
+  }
+] 

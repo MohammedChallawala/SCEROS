@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john.smith@campus.edu",
+    "role": "Student",
+    "assignedAreas": [1, 3],
+    "status": "Active",
+    "lastLogin": "2024-01-15T09:00:00Z",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@campus.edu",
+    "role": "Faculty",
+    "assignedAreas": [1, 3, 4],
+    "status": "Active",
+    "lastLogin": "2024-01-15T08:30:00Z",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Mike Wilson",
+    "email": "mike.wilson@campus.edu",
+    "role": "Facility Manager",
+    "assignedAreas": [1, 2, 3, 4, 5, 6],
+    "status": "Active",
+    "lastLogin": "2024-01-15T07:45:00Z",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Admin User",
+    "email": "admin@campus.edu",
+    "role": "Admin",
+    "assignedAreas": [1, 2, 3, 4, 5, 6],
+    "status": "Active",
+    "lastLogin": "2024-01-15T06:00:00Z",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "email": "emily.davis@campus.edu",
+    "role": "Student",
+    "assignedAreas": [2, 5],
+    "status": "Active",
+    "lastLogin": "2024-01-14T18:00:00Z",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Robert Brown",
+    "email": "robert.brown@campus.edu",
+    "role": "Faculty",
+    "assignedAreas": [2, 6],
+    "status": "Inactive",
+    "lastLogin": "2024-01-10T12:00:00Z",
+    "createdAt": "2024-01-01T00:00:00Z"
+  }
+] 

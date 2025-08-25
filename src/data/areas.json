@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Lab Block A",
+    "type": "Laboratory",
+    "electricity": 230,
+    "water": 120,
+    "hvac": 80,
+    "capacity": 150,
+    "status": "Active",
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Hostel Block B",
+    "type": "Residential",
+    "electricity": 510,
+    "water": 310,
+    "hvac": 150,
+    "capacity": 200,
+    "status": "Active",
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Classroom Block C",
+    "type": "Academic",
+    "electricity": 180,
+    "water": 90,
+    "hvac": 120,
+    "capacity": 300,
+    "status": "Active",
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Library Block D",
+    "type": "Academic",
+    "electricity": 150,
+    "water": 60,
+    "hvac": 100,
+    "capacity": 100,
+    "status": "Active",
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Cafeteria Block E",
+    "type": "Facility",
+    "electricity": 280,
+    "water": 200,
+    "hvac": 90,
+    "capacity": 80,
+    "status": "Active",
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Gym Block F",
+    "type": "Recreational",
+    "electricity": 320,
+    "water": 150,
+    "hvac": 110,
+    "capacity": 50,
+    "status": "Active",
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  }
+] 

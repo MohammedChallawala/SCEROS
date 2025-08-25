@@ -1,0 +1,69 @@
+[
+  {
+    "id": 101,
+    "area": "Lab Block A",
+    "areaId": 1,
+    "type": "Electricity",
+    "value": 480,
+    "threshold": 450,
+    "status": "Unresolved",
+    "severity": "High",
+    "message": "Electricity usage exceeds threshold by 6.7%",
+    "timestamp": "2024-01-15T09:15:00Z",
+    "assignedTo": "Facility Manager"
+  },
+  {
+    "id": 102,
+    "area": "Hostel Block B",
+    "areaId": 2,
+    "type": "Water",
+    "value": 320,
+    "threshold": 300,
+    "status": "Resolved",
+    "severity": "Medium",
+    "message": "Water usage exceeds threshold by 6.7%",
+    "timestamp": "2024-01-15T08:30:00Z",
+    "resolvedAt": "2024-01-15T09:00:00Z",
+    "assignedTo": "Facility Manager"
+  },
+  {
+    "id": 103,
+    "area": "Cafeteria Block E",
+    "areaId": 5,
+    "type": "HVAC",
+    "value": 95,
+    "threshold": 90,
+    "status": "Unresolved",
+    "severity": "Low",
+    "message": "HVAC usage slightly above threshold",
+    "timestamp": "2024-01-15T10:00:00Z",
+    "assignedTo": "Facility Manager"
+  },
+  {
+    "id": 104,
+    "area": "Gym Block F",
+    "areaId": 6,
+    "type": "Electricity",
+    "value": 350,
+    "threshold": 350,
+    "status": "Unresolved",
+    "severity": "Medium",
+    "message": "Electricity usage at threshold limit",
+    "timestamp": "2024-01-15T09:45:00Z",
+    "assignedTo": "Facility Manager"
+  },
+  {
+    "id": 105,
+    "area": "Classroom Block C",
+    "areaId": 3,
+    "type": "Water",
+    "value": 95,
+    "threshold": 100,
+    "status": "Resolved",
+    "severity": "Info",
+    "message": "Water usage normalized",
+    "timestamp": "2024-01-15T07:00:00Z",
+    "resolvedAt": "2024-01-15T07:30:00Z",
+    "assignedTo": "System"
+  }
+] 
