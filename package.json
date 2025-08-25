@@ -1,6 +1,7 @@
 {
   "name": "sceros",
   "version": "1.0.0",
+  "type": "module",
   "description": "Smart Campus Energy & Resource Optimization System",
   "private": true,
   "dependencies": {
